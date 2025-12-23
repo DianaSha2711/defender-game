@@ -1,6 +1,6 @@
 # Defender Game
 
-Browser-based game built with JavaScript.
+Browser based game
 
 ## Setup
 
