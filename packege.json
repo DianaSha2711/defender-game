@@ -9,11 +9,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "URL-вашего-репозитория"
+    "url": "https://github.com/DianaSha2711/defender-game.git"
   },
   "keywords": [
     "game"
   ],
-  "author": "ваше имя или псевдоним",
+  "author": "DianaSha27",
   "license": "ISC"
 }
